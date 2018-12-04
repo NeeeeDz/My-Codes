@@ -1,0 +1,56 @@
+body{
+	width: 1300px;
+	height: 1300px:
+	margin-top:30px;
+	
+}
+canvas {
+	
+    display: block;
+    width: 1300px;
+	
+}
+.botao1{
+	
+	background-color:#000000;
+	color:#68228B;
+	font-size:30px;
+	font-family: Comic Sans MS;
+}
+.botao2{
+	
+	position: absolute;
+	background-color:#000000;
+	color:#68228B;
+	font-size:30px;
+	font-family: Comic Sans MS;
+	float:left;
+	float:top;
+}
+	
+
+
+.h1{
+	font-family: Comic Sans MS;
+	font-size: 40px;
+	color: 	#D15FEE;
+
+}
+.h2{
+	font-family: Comic Sans MS;
+	color: #8B1A1A;
+	
+}
+
+.h3{	
+	color: red;
+	font-family: Comic Sans MS;
+}
+
+
+
+
+
+
+
+
